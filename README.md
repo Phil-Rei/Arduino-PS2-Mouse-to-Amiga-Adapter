@@ -16,6 +16,14 @@ Connect a PS2 (or compatible USB Mouse) to an Amiga
   5V                 5V
   GND                GND
   
+  USB Mouse (PS2 Compatible like Cherry M-5400)
+  CLOCK              USB PIN 3 -> D11
+  DATA               USB PIN 2 -> D12
+  5V                 USB PIN 1 -> 5V VCC
+  GND                USB PIN 4 -> GND
+  
+ 
+  
   DSub9 Female Pin   Arduino Pin
   1                   D2
   2                   D3
